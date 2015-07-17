@@ -27,3 +27,6 @@ python start.py
 
 ## Optional
 You may require PIL (Python Imaging Library) to display a background image on the canvas if your installation of Python does not include it. You can obtain it for your OS from http://www.pythonware.com/products/pil/.
+
+## Python 3
+We have updated the source code to be compatible with Python 3, you can find the blog post at https://www.informaticscentre.co.uk/blog/updating-the-twitter-feed-for-python-3 and the Python 3 Repository at https://github.com/informaticscentre/IC.Social.Python3.
